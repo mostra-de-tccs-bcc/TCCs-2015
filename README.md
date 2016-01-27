@@ -4,7 +4,7 @@ Acesse o site em [http://mostra-de-tccs-bcc.github.io/TCCs-2015/](http://mostra-
 
 ## Desenvolvimento
 
-O projeto foi desenvolvido utilizando AngularJS e baseado no tema "hack" do GitHub. Desenvolvido pelos colabores descritos no arquivo [COLAB.md](COLAB.md)
+O projeto foi desenvolvido utilizando [AngularJS](https://angularjs.org/) e baseado no tema "hack" do GitHub. Desenvolvido pelos colabores descritos no arquivo [COLAB.md](COLAB.md)
 
 ##Licença
 
