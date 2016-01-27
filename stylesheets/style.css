@@ -1,0 +1,36 @@
+article.tcc header{
+  margin: 0;
+  padding: 20px;
+  border-bottom-width: 2px;
+}
+
+article.tcc header h3, article.tcc header h4{
+  margin: 0;
+}
+
+section.content{
+  width:600px;
+  padding:20px;
+  margin: 0;
+  background:rgba(200,200,200,0.6);
+  /*color:#b5e853*/
+}
+
+section.content *{
+  color: #fff;
+}
+
+section.content .resumo p{
+  text-indent: 20px;
+}
+
+section.referencias {
+  width: 600px;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.3);
+  border-bottom: 3px solid #b5e853;
+}
+
+a{
+  text-shadow: initial;
+}
