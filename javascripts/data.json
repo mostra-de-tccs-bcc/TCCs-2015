@@ -1,14 +1,97 @@
 {
     "TCCS" : [
         {
-          "titulo"        : "Ola Mundo",
-          "autor"         : "autor",
-          "orientador"    : "Wikipedia",
-          "coorientador" : "Google",
-          "github"        : "http://github.com",
-          "monografia"    : "http://google.com",
-          "apresentacao"  : "http://google.com",
-          "resumo"        : "Esse tcc eh um Ola Mundo"
+          "titulo"        : "Jogo Eletrônico Baseado em RPG de Mesa, com uso do Motor de Jogo Unity para a Plataforma de Multiprojeção MiniCave",
+          "autor"         : "Alexandre Salvador Fernandes",
+          "orientador"    : "Prof. Dr. Jose Remo Ferreira Brega",
+          "coorientador" : "Prof. Me. Mário Popolin Neto",
+          "monografia"    : "m/M-AlexandreSF.pdf",
+          "apresentacao"  : "a/A-AlexandreSF.pptx",
+          "resumo"        : "Este projeto trata da criação de um protótipo de jogo eletrônico, seguindo o modelo de Role- playing Game (RPG), cuja plataforma foi o ambiente de multiprojeção MiniCAVE, desenvolvido com a ajuda do moto de jogo Unity, para que utilizasse esta tecnologia imersiva da melhor forma possível, proporcionando uma experiência única ao jogador. Por meio da análise das características da MiniCAVE, em conjunto com os principais atributos de um jogo de RPG, foi possível aferir que o ambiente de multiprojeção atende aos requisitos de um RPG, sendo possível utilizar todos os seus recursos. Ao final do teste multiprojetado, isto é, execução do protótipo dentro do ambiente da MiniCAVE, foi possível averiguar seu efeito imersivo."
+        },
+        {
+          "titulo"        : "Robô Móvel para Exploração de Ambientes em Busca Objetos por meio de Visão Computacional",
+          "autor"         : "Carlos André Braile Przewodowski Filho",
+          "orientador"    : "Prof. Dr. Humberto Ferasoli Filho",
+          "monografia"    : "m/M-CarlosABPF.pdf",
+          "apresentacao"  : "a/A-CarlosABPF.pdf",
+          "github"        : "https://github.com/cabraile/Modular-Mobile-Robot",
+          "resumo"        : "A robótica móvel está cada vez mais presente no nosso cotidiano e os robôs estão sendo utilizados em várias aplicações. Trabalhar em conjunto com humanos, cooperando e/ou concorrendo, é o desafio e os próximos passos da robótica móvel. O projeto apresenta o planejamento, construção e implementação de uma arquitetura de controle de hardware e de software para um robô de serviço móvel, eficiente e versátil, para realização de tarefas com o uso de técnicas de visão computacional exemplificado numa aplicação de coletar bolas de tênis em um ambiente. O trabalho apresenta desenvolvimento da base móvel, da eletrônica embarcada, do sistema de comunicação, do sistema de controle e do sistema de visão computacional, baseada na análise de cores. O robô móvel, projetado e implementado, foi chamado de Meg-Alie e, considerando os resultados obtidos nos experimentos realizados, ele atingiu o seu objetivo proposto."
+        },
+        {
+          "titulo"        : "Aplicativo Web para Análise e Comparação de Audio Fingerprint",
+          "autor"         : "Evandro Barbosa Carreira",
+          "orientador"    : "Prof. Dr. João Fernando Marar",
+          "monografia"    : "m/M-EvandroBC.pdf",
+          "apresentacao"  : "https://prezi.com/fsk_li9ab2c9/consolelogstream/",
+          "github"        : "https://github.com/evandrododo/piratify",
+          "resumo"        : "Atualmente as aplicações para reconhecimento de audio são dependentes da plataforma onde ela será aplicada e de um conhecimento científico específico sobre processamento de sinais e inteligência artificial. Visando uma melhor compreensão dessa tecnologia foi desenvolvida uma estrutura prática que segue o modelo teórico de geração de audio fingerprint, e um protótipo multiplataforma funcional de reconhecimento de músicas. O foco do desenvolvimento deste protótipo é a facilidade de implementação e modularização para que possa ser utilizado para diversos fins, portanto ele foi desenvolvido em Javascript para que funcione na maioria dos dispositivos populares, e possa ser integrado a serviços já oferecidos na internet."
+        },
+        {
+          "titulo"        : "Aplicativo de Busca de Receitas Usando ElasticSearch",
+          "autor"         : "Felipe Luis Lopes",
+          "orientador"    : "Prof. Dr. Luiz Francisco da Cruz",
+          "monografia"    : "m/M-FelipeLL.docx",
+          "apresentacao"  : "a/A-FelipeLL.pdf",
+          "resumo"        : "O uso de ferramentas de busca, traz muitos benefícios e ajuda a otimizar o tempo quando se deseja encontrar informações em uma base de dados. Uma dessas ferramentas se chama Elasticsearch. Esta ferramenta foi concebida com o objetivo de otimizar o tempo de busca (consulta) em banco de dados, seja grande ou não. Mas como essas ferramentas funcionam? Este trabalho apresenta como implementar uma busca utilizando o Elasticsearch e quais os conceitos por traz do seu núcleo. Afim de mostrar Elasticsearch em funcionamento, é desenvolvido um aplicativo de receitas, onde será realizada a busca com base nos ingredientes e não o nome da receita. Também são apresentados conceitos de API REST, plataforma móvel e banco de dados não relacional. Ao final deste trabalho, como resultado das uniões das tecnologias mencionadas, conseguiu-se obter informações quanto a implementação e buscas utilizando o Elasticsearch, juntamente com subsídios que garantam essa implementação tanto em plataformas Web como Móveis."
+        },
+        {
+          "titulo"        : "Projeto e Desenvolvimento de um Dispositivo Rastreador de Beacons utilizando o Raspberry Pi",
+          "autor"         : "Gabriel Luiz Bastos de Oliveira",
+          "orientador"    : "Prof. Dr. Eduardo Martins Morgado",
+          "monografia"    : "https://github.com/gabrielboliveira/Monografia-Peacon",
+          "apresentacao"  : "a/A-GabrielLBO.pdf",
+          "github"        : "https://github.com/gabrielboliveira/peacon",
+          "resumo"        : "Atualmente a área da Internet das Coisas tem sido foco de muitos estudos e aplicações. Aplicações de casas, cidade, carros inteligentes conectados a internet estão surgindo, facilitando em alguns aspectos a vida das pessoas. Por conta disso, alguns dispositivos foram criados para auxiliar essas áreas, entre eles o Arduino e Raspberry Pi. Os beacons também é uma tecnologia recente, permitindo a comunicação com outros dispositivos como o RPi para auxiliar a micro-localização dentro de um pequeno espaço, com um baixo custo. O seu foco de uso é pequeno, somente com leituras via smartphones. Esse projeto teve como objetivo criar um rastreador de beacons utilizando o Raspberry Pi para expandir a capacidade de identificação. Divido nas etapas de estudo, planejamento do hardware, planejamento do software e desenvolvimento, o dispositivo rastreador (denominado Peacon) foi concebido de componentes de baixo custo, permitindo uma futura utilização em massa. Trabalhou-se com Node.js para o desenvolvimento da aplicação e CouchDB como banco de dados do histórico de identificação dos beacons. Testes e avaliações foram executados, comprovando a eficiência do projeto. Concluiu-se, portanto, que o dispositivo pode ser facilmente expandido para outras aplicações em várias áreas de atuação."
+        },
+        {
+          "titulo"        : "Keep Me Posted - Uma Rede Social para Colecionadores de Cartões Postais",
+          "autor"         : "Giulia de Andrade Cardieri",
+          "orientador"    : "Prof.a Dr.a Simone das G Domingues Prado",
+          "monografia"    : "m/M-GiuliaAC.pdf",
+          "apresentacao"  : "a/A-GiuliaAC.pdf",
+          "resumo"        : "O desenvolvimento da World Wide Web ocasionou no crescimento do volume de dados produzidos, com isso surge um novo desafio: como é possível encontrar informações relevantes em meio a uma grande quantidade de conteúdo? Sistemas de recomendação são utilizados em aplicações web com diferentes funções como redes sociais, utilizadas especialmente para interações e troca de informações entre usuários e serviços de streaming de música e vídeo, por exemplo. Esses sistemas obtém informações dos usuários, e baseados nisso selecionam itens que esse indivíduo provavelmente terá interesse. Esse projeto é uma aplicação web denominada Keep Me Posted, no formato de uma rede social, que permite aos colecionadores de cartões postais organizarem suas coleções e interagirem com outros indivíduos que tenham interesses similares. Um sistema de recomendação foi implementado com o objetivo de facilitar a busca de postais similares ao gosto do usuário. Para desenvolver essa aplicação foi realizada uma revisão bibliográfica e uma análise de materiais e métodos, seguidos pela implementação. Essa aplicação beneficia colecionadores de cartões postais, auxiliando a organizarem suas coleções digitalmente, interagirem com outros colecionadores e encontrarem postais de acordo com seus interesses."
+        },
+        {
+          "titulo"        : "Sobre Regras de Associação Utilizando Mineração de Dados",
+          "autor"         : "Gustavo Henrique de Rosa",
+          "orientador"    : "Prof. Dr. João Paulo Papa",
+          "monografia"    : "m/M-GustavoR.pdf",
+          "apresentacao"  : "a/A-GustavoR.pdf",
+          "resumo"        : "A tecnologia vem proporcionando enormes avanços em nossas atividades do cotidiano. Atualmente, o mundo capitalista exige novos processos e tendências a fim de solucionar seus problemas de competitividade e aprimorar sua metodologia de operação. A área da mineração de dados tornou-se extremamente responsável por auxiliar na tomada de decisão das empresas, onde a efetiva análise dos dados armazenados resultantes das próprias operações da empresa conseguiram proporcionar conhecimentos de alto nível e importantes associações. Entretanto, ao passo em que a tecnologia se aprofunda e desenvolve cada vez mais, a quantidade de dados e objetos conectado à essa rede também cresce exponencialmente, sendo necessárias novas abordagens e metodologias capazes de aprimorar e otimizar os processos já utilizados. Dentro desse panorama, as chamadas regras de associação constituem uma importante abordagem para a descoberta dessas informações de alto nível. Representada por um modelo formal matemático e sustentada por diversos teoremas, essa subárea da mineração de dados é capaz de produzir ótimos resultados, principalmente para problemas associados ao mercado, sendo esse garimpo de regras, uma importante fonte comercial para a empresa utilizadora. A utilização de dois importantes algoritmos para a mineração de dados, Apriori e FP-Growth, fornece um maior entendimento sobre a geração de regras de associação, ao passo que também é de grande necessidade testar, validar e comparar essas duas técnicas com bases de dados reais e sintéticas. Os experimentos realizados comprovam a dificuldade na análise em grandes quantidades de dados devido ao crescimento exponencial da complexidade do problema, mostrando que também é necessária uma análise qualitativa das regras geradas, e não somente quantitativa."
+        },
+        {
+          "titulo"        : "Sistema Online de Sugestão de Filmes Baseado na Associação entre Perfis de Usuários",
+          "autor"         : "Lucas Moreno Silva",
+          "orientador"    : "Prof. Dr. João Paulo Papa",
+          "coorientador"  : "Luiz Miguel Axcar",
+          "monografia"    : "m/M-LucasMS.pdf",
+          "apresentacao"  : "a/A-LucasMS.pdf",
+          "resumo"        : "Devido à grande quantidade de filmes de diversos gêneros, atores e diretores nos dias atuais, fica cada vez mais difícil encontrar algum filme que realmente agrade uma pessoa. Muitas vezes, a pessoa define um filme com determinadas características como favorito e acredita que não há nenhum outro filme similar, quando na verdade, isso é muito improvável. O grande problema em encontrar filmes que parecem únicos, se deve ao fato do grande número de opções, como citado anteriormente. Para ajudar os fãs de filmes a encontrarem uma agulha nesse palheiro, algumas empresas desenvolveram sistemas de recomendação de filmes. O problema existe porque esses sistemas de recomendação tendem a sugerir filmes aclamados pela crítica e em alguns casos sugerir filmes que somente estão em seu catálogo para visualização (no caso de sistemas que reproduzem filmes), o que limita absurdamente as opções de sugestão. Com um banco de dados relacional, o sistema descrito nesse documento busca sugerir filmes através da associação entre perfis de usuário, utilizando como base dessa associação o novo conceito de tags quantitativas. Esse conceito também é utilizado para medir a intensidade com que cada tag aparece em cada filme. Com essa modelagem de dados, diversas formas de sugestões são possíveis, como as quatro descritas nesse documento."
+        },
+        {
+          "titulo"        : "Objeto de Aprendizagem no Apoio ao Ensino de Lógica Computacional",
+          "autor"         : "Luciana Mieko Sunano",
+          "orientador"    : "Prof. Dr. Wilson Massashiro Yonezawa",
+          "monografia"    : "m/M-LucianaMS.docx",
+          "apresentacao"  : "a/A-LucianaMS.pptx",
+          "resumo"        : "A velocidade com a qual as mudanças tecnológicas acontecem cresce a cada dia. É visível a facilidade que as gerações mais recentes têm de lidar com as novas tecnologias, sejam elas para o lazer ou até mesmo para a educação, diferentemente das gerações anteriores, que podem não compreender totalmente o modo como essa nova geração trabalha. Além disso, especificamente em cursos de computação, existe uma grande dificuldade do aluno em conceitos introdutórios ligados à programação, que possivelmente poderia ser minimizada caso esses alunos tivessem sido introduzidos aos conceitos do pensamento computacional logo na infância, ou até mesmo durante o início da educação superior. Este trabalho é um protótipo de um Objeto de Aprendizagem que tem como público alvo estudantes do ensino básico e, também, estudantes do ensino superior, principalmente os de cursos de computação, sendo dividido em atividades com um ou mais exercícios com o propósito de uma aprendizagem progressiva do aluno. Seu objetivo é, através do uso de analogias, que facilitam o aprendizado de conteúdos novos e desconhecidos, desenvolver o pensamento computacional nesses alunos e, consequentemente, o raciocínio lógico, a fim de contribuir com que eles possam criar seus próprios caminhos em busca de soluções em diversas situações da vida."
+        },
+        {
+          "titulo"        : "Jogo Educativo para Apoio ao Ensino de Matemática",
+          "autor"         : "Paulo Roberto Tessarolli Junior",
+          "orientador"    : "Prof. Dr. Wilson Massashiro Yonezawa",
+          "monografia"    : "m/M-PauloRTJ.pdf",
+          "apresentacao"  : "a/A-PauloRTJ.pdf",
+          "resumo"        : "A dificuldade dos alunos em aprender matemática somado ao método tradicional de ser passado o conteúdo é um grande problema para a situação atual, onde crianças estão em contato direto com muita informação e tecnologias. O objetivo é a criação de um jogo digital, baseado numa mecânica já conhecida de tabuleiro, através do qual as crianças podem se divertir ao mesmo tempo em que consigam aprender o conteúdo que deve ser passado através do jogo. O projeto foi baseado no jogo de tabuleiro conhecido como Cara a Cara, onde duas pessoas interagem entre si, através de perguntas para eliminação de cartas, com o objetivo de adivinhar qual a carta sorteada pela outra pessoa. Para isto, foi utilizado a engine Unity, conhecida por ser uma ferramenta para a construção de jogos, incluindo jogos educativos."
+        },
+        {
+          "titulo"        : "Desenvolvimento de Jogo de Lógica para Dispositivos Móveis",
+          "autor"         : "Vinicius Alves Pereira",
+          "orientador"    : "Prof. Dr. Marco Antônio Rahal Sacoman",
+          "monografia"    : "m/M-ViniciusAP.pdf",
+          "apresentacao"  : "a/A-ViniciusAP.pdf",
+          "resumo"        : "Jogos estão cada vez mais presentes em nossas vidas e a evolução da tecnologia faz com que eles possam ser encaixados em pequenos momentos livres, como a espera por um ônibus. Este projeto visa o desenvolvimento de um jogo com partidas curtas e que ajude a exercitar a memória de uma forma divertida e simples, assim sendo um objeto de entretenimento e uma ferramenta de desenvolvimento mental ao mesmo tempo. Usando uma temática bem conhecida entre os profissionais da área de TI, a máquina de Turing, foi construída a ideia de um quebra cabeça onde os símbolos e estados são a chave para a próxima resposta. O jogo foi desenvolvido utilizando a engine Unity e publicado na PlayStore."
         }
     ]
 }
