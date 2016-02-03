@@ -20,10 +20,6 @@ section.content *{
   color: #fff;
 }
 
-section.content .resumo p{
-  text-indent: 20px;
-}
-
 section.referencias {
   width: 600px;
   padding: 20px;
