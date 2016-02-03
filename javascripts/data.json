@@ -19,6 +19,15 @@
           "resumo"        : "A robótica móvel está cada vez mais presente no nosso cotidiano e os robôs estão sendo utilizados em várias aplicações. Trabalhar em conjunto com humanos, cooperando e/ou concorrendo, é o desafio e os próximos passos da robótica móvel. O projeto apresenta o planejamento, construção e implementação de uma arquitetura de controle de hardware e de software para um robô de serviço móvel, eficiente e versátil, para realização de tarefas com o uso de técnicas de visão computacional exemplificado numa aplicação de coletar bolas de tênis em um ambiente. O trabalho apresenta desenvolvimento da base móvel, da eletrônica embarcada, do sistema de comunicação, do sistema de controle e do sistema de visão computacional, baseada na análise de cores. O robô móvel, projetado e implementado, foi chamado de Meg-Alie e, considerando os resultados obtidos nos experimentos realizados, ele atingiu o seu objetivo proposto."
         },
         {
+          "titulo"        : "Logikid: Software para o Ensino de Lógica e Programação Com o Aedromo",
+          "autor"         : "Celso de Oliveira Lisboa",
+          "orientador"    : "Prof. Dr. Renê Pegoraro",
+          "coorientador"  : "Prof. Me. Silas F. R. Alves",
+          "monografia"    : "m/M-CelsoOL.pdf",
+          "apresentacao"  : "a/A-CelsoOL.pptx",
+          "resumo"        : "Diante da visível necessidade de novas tecnologias na Educação, dentre várias, a robótica é uma que se destaca no contexto atual pelo seu caráter inovador e cativante. O objetivo deste trabalho foi o desenvolvimento de um software denominado LOGIKID, que com o auxílio do AEDROMO, pode ser utilizado como técnica complementar no ensino da lógica para alunos do ensino fundamental e médio. O AEDROMO é um ambiente experimental e didático com robôs móveis. Formado por uma área de trabalho, objetos passivos e robôs; capaz de trabalhar com um software desenvolvido em qualquer linguagem que suporte sockets. Dentre as diversas linguagens existentes, optou-se pelo Processing. O LOGIKID é baseado em características de softwares como LOGO, SCRATCH, LIGHTBOT, LEGO MINDSTORMS e LEGAL que foram consideradas positivas no contexto educacional. A sua interface interage com o usuário de acordo com suas escolhas para a posterior geração e interpretação de um código. Essa interpretação utiliza um interpretador configurável desenvolvido no GISDI (Grupo de Integração de Sistemas e Dispositivos Inteligentes) que media o código gerado para ser utilizado com o AEDROMO."
+        },
+        {
           "titulo"        : "Aplicativo Web para Análise e Comparação de Audio Fingerprint",
           "autor"         : "Evandro Barbosa Carreira",
           "orientador"    : "Prof. Dr. João Fernando Marar",

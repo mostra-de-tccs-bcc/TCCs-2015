@@ -41,14 +41,13 @@
       <section ng-controller="TccsController" id="main_content">
         <article ng-repeat="tcc in tccs" class="tcc">
           <header>
-            <h3>Projeto: {{tcc.titulo}}<h3>
+            <h3>{{tcc.titulo}}<h3>
             <h4>Autor: {{tcc.autor}}</h4>
             <h4>Orientador: {{tcc.orientador}}</h4>
             <h4 ng-if="tcc.coorientador">Co-Orientador: {{tcc.coorientador}}</h4>
           </header>
           <section class="content">
             <div class="resumo">
-              <h3>Resumo</h3>
               <p>{{tcc.resumo}}</p>
             </div>
           </section>
