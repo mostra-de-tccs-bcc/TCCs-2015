@@ -97,6 +97,15 @@
           "resumo"        : "A dificuldade dos alunos em aprender matemática somado ao método tradicional de ser passado o conteúdo é um grande problema para a situação atual, onde crianças estão em contato direto com muita informação e tecnologias. O objetivo é a criação de um jogo digital, baseado numa mecânica já conhecida de tabuleiro, através do qual as crianças podem se divertir ao mesmo tempo em que consigam aprender o conteúdo que deve ser passado através do jogo. O projeto foi baseado no jogo de tabuleiro conhecido como Cara a Cara, onde duas pessoas interagem entre si, através de perguntas para eliminação de cartas, com o objetivo de adivinhar qual a carta sorteada pela outra pessoa. Para isto, foi utilizado a engine Unity, conhecida por ser uma ferramenta para a construção de jogos, incluindo jogos educativos."
         },
         {
+          "titulo"        : "Fruto Urbano: Uma Aplicação Web e Mobile Utilizando Tecnologias de Geoprocessamento para Arborização Urbana",
+          "autor"         : "Rodrigo Yasuhiro Ueda",
+          "orientador"    : "Prof. Dr. Eduardo Martins Morgado",
+          "coorientador"  : "Luiz Miguel Axcar",
+          "monografia"    : "m/M-RodrigoU.pdf",
+          "apresentacao"  : "a/A-RodrigoU.pdf",
+          "resumo"        : "As tecnologias de geoprocessamento são cada vez mais comuns no cotidiano das pessoas, demonstrando­se de grande utilidade. Além disso, pode se observar que as plataformas de desenvolvimento w eb e móvel têm se tornado muito populares na sociedade. Pensando nisso, esse trabalho propõe o desenvolvimento aplicação web e outra mobile que se comunicam com um w eb service a fim de se mapear pontos de vegetação, locais para plantio e podas drásticas em ambientes urbanos; além da elaboração de um relatório de desenvolvimento para auxiliar na manutenção e replicação de sistemas semelhantes para a espacialização de outros pontos de interesse."
+        },
+        {
           "titulo"        : "Desenvolvimento de Jogo de Lógica para Dispositivos Móveis",
           "autor"         : "Vinicius Alves Pereira",
           "orientador"    : "Prof. Dr. Marco Antônio Rahal Sacoman",
