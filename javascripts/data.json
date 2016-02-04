@@ -10,7 +10,7 @@
           "resumo"        : "Este projeto trata da criação de um protótipo de jogo eletrônico, seguindo o modelo de Role- playing Game (RPG), cuja plataforma foi o ambiente de multiprojeção MiniCAVE, desenvolvido com a ajuda do moto de jogo Unity, para que utilizasse esta tecnologia imersiva da melhor forma possível, proporcionando uma experiência única ao jogador. Por meio da análise das características da MiniCAVE, em conjunto com os principais atributos de um jogo de RPG, foi possível aferir que o ambiente de multiprojeção atende aos requisitos de um RPG, sendo possível utilizar todos os seus recursos. Ao final do teste multiprojetado, isto é, execução do protótipo dentro do ambiente da MiniCAVE, foi possível averiguar seu efeito imersivo."
         },
         {
-          "titulo"        : "Robô Móvel para Exploração de Ambientes em Busca Objetos por meio de Visão Computacional",
+          "titulo"        : "Robô Móvel para Exploração de Ambientes em Busca de Objetos por meio de Visão Computacional",
           "autor"         : "Carlos André Braile Przewodowski Filho",
           "orientador"    : "Prof. Dr. Humberto Ferasoli Filho",
           "monografia"    : "m/M-CarlosABPF.pdf",
