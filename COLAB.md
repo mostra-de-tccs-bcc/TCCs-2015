@@ -3,7 +3,8 @@
 O projeto foi desenvolvido pelos seguintes colaboradores
 
 
-##Colaboradores
+## Colaboradores
+
 | Nome | Usuário GitHub |
 | ---- | -------------- |
 | Vinicius Figueiredo | [vinifig](https://github.com/vinifig) |
